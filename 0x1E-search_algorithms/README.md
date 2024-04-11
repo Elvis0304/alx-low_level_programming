@@ -1,12 +1,4 @@
-# Project Name
 **0x1E. C - Search Algorithms**
-
-## Author's Details
-Name: *Wendy Munyasi.*
-
-Email: *wendymunyasi@gmail.com*
-
-Tel: *+254707240068.*
 
 ##  Requirements
 *   Allowed editors: `vi`, `vim`, `emacs`.
